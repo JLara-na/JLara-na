@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jorge!</h1>
-<h3 align="center">A Software developer and a MECHATRONIC</h3>
+<h3 align="center">A Software developer and a mechatronic</h3>
 
 ## 📚 My last projects:
 | Project | Description |
