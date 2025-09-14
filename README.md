@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Jorge!</h1>
 <h3 align="center">A Software developer and a mechatronic</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLara-na)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📚 My last projects:
 | Project | Description |
 | --- | --- |
