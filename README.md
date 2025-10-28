@@ -2,8 +2,7 @@
 <h3 align="center">A Software developer and a mechatronic</h3>
 
 <div style="display: flex;  justify-content: space-between;" align="center">
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLara-na&show_icons=true&theme=gotham&hide=stars,prs,issues,contribs&include_all_commits=true&hide_rank=false&line_height=60&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLara-na&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
