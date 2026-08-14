@@ -3,11 +3,13 @@
 
 <div style="display: flex;  justify-content: space-between;" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLara-na&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=JLara-na&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-## 📚 My last projects:
+
+<h3 align="center">📚 My last projects</h3>
+
 | Project | Description |
 | --- | --- |
 | **<a href="https://github.com/JLara-na/42Cub3D" target="_blank" style="color: #EFC7C2;">Cub3D</a>** | This project is inspired by Wolfenstein 3D, which was the first FPS ever. Learning Ray-casting is the goal of this project.|
@@ -21,6 +23,8 @@
 | **<a href="https://github.com/JLara-na/42Madrid_ft_printf" target="_blank" style="color: #EFC7C2;">ft_printf</a>** | Reprogram the printf() function of the libc. |
 | **<a href="https://github.com/JLara-na/42Madrid_Libft" target="_blank" style="color: #EFC7C2;">Libft</a>** | This project consists of programming a library in C. |
 
+
+
 <div style="display: flex;  justify-content: space-between; padding: 15px;">
     <div>
     <h3 align="left">Connect with me:</h3>
@@ -29,4 +33,16 @@
  height="30" width="40" /></a>
     </p>
     </div>
+</div>
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlara-na/jlara-na/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlara-na/jlara-na/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jlara-na/jlara-na/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jlara-na.jlara-na&left_color=darkseagreen&right_color=seagreen"  />
 </div>
